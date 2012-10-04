@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1349358073,
+	"installed_packages":
+	[
+		"Alignment",
+		"CoffeeScript",
+		"Package Control",
+		"SCSS"
+	],
+	"repositories":
+	[
+		"git@github.com:mrappleton/aqua-theme.git"
+	]
+}
